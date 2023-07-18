@@ -1,0 +1,9 @@
+e4a713766e6a31ba35c6a28213b47224 *DESCRIPTION
+2618f06dafa7bc8a5b803832aac1dd0b *NAMESPACE
+df74c3f377089e152b54b55b9920d9aa *R/MTest.R
+7faf740febfe1c9cdb8ae89e8c3402fc *R/pairwiseKStest.R
+439bf689fa27cf9affd0335332142165 *build/partial.rdb
+89bc2ba09e07d8ada709c04e793c101c *data/simDataMTest.RData
+e25f6fe5e25a17f31231f482c7de5fcd *man/MTest.Rd
+57fdf0c7ce44ef6ef103af0eb0c05e44 *man/pairwiseKStest.Rd
+30dfd752af61eaecfff2cffbdc217306 *man/simDataMTest.Rd
