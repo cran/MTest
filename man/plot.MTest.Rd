@@ -17,7 +17,7 @@
   \item{type}{Numeric; 1 if density, 2  if ecdf plot is returned}
   \item{plotly}{Logical; if \code{FALSE}, a \code{ggplotly} plot is returned}
   \item{\dots}{other arguments to be passed to the function
-    \code{\link{ggplot}}   }
+    \code{\link[ggplot2:ggplot]{ggplot}}   }
 }
 
 
