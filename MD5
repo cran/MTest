@@ -1,10 +1,10 @@
-25f2456525c65fbad7494f018528e911 *DESCRIPTION
-c6db890666121f50a79d66a1c8c66411 *NAMESPACE
-6601294a8a9d605888fd1bcb9950b93a *R/MTest.R
-1501717ff082b6726f453168ae7280d1 *R/pairwiseKStest.R
+26db7c028b77fcdfc19ecc07e7bf94b4 *DESCRIPTION
+91ae08d91b891a692dc06dda535efe2f *NAMESPACE
+ecb0f465a8bc892d0fab2edad267e58f *R/MTest.R
+ee448c2bd9eddbdc85131aaa261b1109 *R/pairwiseKStest.R
 b52aabe9a2757fc86742763db9dafc9b *build/partial.rdb
 89bc2ba09e07d8ada709c04e793c101c *data/simDataMTest.RData
-40818813104c7d3548dae683eb452cd0 *man/MTest.Rd
-e043fd9b1da9d1e5329d80eafaf80094 *man/pairwiseKStest.Rd
+e102a75584bf8a77807ee7c349e34888 *man/MTest.Rd
+81efcbfb6e7b8f9339b3d1e708433cab *man/pairwiseKStest.Rd
 95ade7ed0744c3cef98475ae3152df50 *man/plot.MTest.Rd
 30dfd752af61eaecfff2cffbdc217306 *man/simDataMTest.Rd
